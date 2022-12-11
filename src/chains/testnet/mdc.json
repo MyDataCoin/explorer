@@ -1,0 +1,7 @@
+{
+    "chain_name": "mdc",
+    "api": "http://20.231.58.174:1317",
+    "sdk_version": "0.42.4",
+    "addr_prefix": "mdc",
+    "logo": "https://iili.io/HnpiGdN.jpg"
+}
