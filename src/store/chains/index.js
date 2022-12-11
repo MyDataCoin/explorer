@@ -9,10 +9,10 @@ import { isTestnet } from '@/libs/utils'
 
 let chains = {}
 
-let configs = require.context('../../chains/mainnet', false, /\.json$/)
-if (isTestnet()) {
-  configs = require.context('../../chains/testnet', false, /\.json$/)
-}
+let configs = require.context('../../chains/testnet', false, /\.json$/)
+// if (isTestnet()) {
+//   configs = require.context('../../chains/testnet', false, /\.json$/)
+// }
 
 const update = {}
 configs.keys().forEach(k => {
