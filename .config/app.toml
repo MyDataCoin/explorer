@@ -11,7 +11,7 @@ enable = true
 swagger = false
 
 # Address defines the API server to listen on.
-address = "tcp://20.231.58.174:1317"
+address = "tcp://mydatacoin.duckdns.org"
 
 # MaxOpenConnections defines the number of maximum open connections.
 max-open-connections = 1000
