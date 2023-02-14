@@ -7,7 +7,7 @@
     "assets": [{
         "base": "umdc",
         "symbol": "mdc",
-        "exponent": "1",
+        "exponent": "6",
         "coingecko_id": "mdc"
     }]
 
