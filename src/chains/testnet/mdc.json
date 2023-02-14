@@ -1,0 +1,14 @@
+{
+    "chain_name": "MyDataCoin",
+    "api": "https://explorermdc.duckdns.org/",
+    "sdk_version": "0.45.4",
+    "addr_prefix": "mdc",
+    "logo": "https://iili.io/HnpiGdN.jpg",
+    "assets": [{
+        "base": "umdc",
+        "symbol": "MDC",
+        "exponent": "6",
+        "logo": "https://iili.io/HnpiGdN.jpg"
+    }]
+
+}
