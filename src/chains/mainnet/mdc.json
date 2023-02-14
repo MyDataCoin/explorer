@@ -1,14 +1,16 @@
 {
     "chain_name": "MyDataCoin",
-    "api": "https://explorermdc.duckdns.org/",
+    "api": ["https://explorermdc.duckdns.org"], 
+    "rpc": ["https://rpcmdc.duckdns.org"],
     "sdk_version": "0.45.4",
-    "addr_prefix": "mdc",
-    "logo": "https://iili.io/HnpiGdN.jpg",
+    "coin_type": "118",
+    "min_tx_fee": "10",
     "assets": [{
         "base": "umdc",
         "symbol": "MDC",
         "exponent": "6",
-        "logo": "https://iili.io/HnpiGdN.jpg"
-    }]
-
+        "coingecko_id": "mdc", 
+        "logo": "https://iili.io/HnpiGdN.jpg"    }],
+    "addr_prefix": "mdc",
+    "logo": "https://iili.io/HnpiGdN.jpg"
 }
