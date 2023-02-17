@@ -1,5 +1,5 @@
 {
-    "chain_name": "mdc",
+    "chain_name": "MyDataCoin",
     "api": "https://explorermdc.duckdns.org", 
     "rpc": "https://rpcmdc.duckdns.org",
     "sdk_version": "0.45.4",
