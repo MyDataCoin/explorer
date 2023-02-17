@@ -1,7 +1,7 @@
 {
     "chain_name": "MyDataCoin",
-    "api": ["https://explorermdc.duckdns.org"], 
-    "rpc": ["https://rpcmdc.duckdns.org"],
+    "api": "https://explorermdc.duckdns.org", 
+    "rpc": "https://rpcmdc.duckdns.org",
     "sdk_version": "0.45.4",
     "coin_type": "118",
     "min_tx_fee": "10",
