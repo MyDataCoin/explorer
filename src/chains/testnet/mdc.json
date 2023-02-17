@@ -8,7 +8,6 @@
     "assets": [{
         "base": "umdc",
         "symbol": "MDC",
-        "exponent": "6",
         "coingecko_id": "mdc", 
         "logo": "https://iili.io/HnpiGdN.jpg"    }],
     "addr_prefix": "mdc",
